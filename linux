@@ -1,0 +1,72 @@
+1  pwd
+    2  pwd
+    3  mkdir SectionG
+    4  cd SectionG
+    5  touch file1.txt
+    6  echo "Linux is a free and open-source operating system used to manage computer hardware and software.
+    7  It is known for its security, stability, and flexibility." > file1.txt
+    8  ls
+    9  grep "Linux" file1.txt
+   10  grep -in "Linux" file1.txt
+   11  grep -inc "Linux" file.txt
+   12  grep -inc "Linux" file1.txt
+   13  pwd
+   14  ls
+   15  ls -l Linux.txt
+   16  ls -l file1.txt
+   17  chmod 700 file1.txt
+   18  ls -l file1.txt
+   19  chmod 500 file1.txt
+   20  ls -l file1.txt
+   21  less file1.txt
+   22  adduser diksha
+   23  nano ashi.sh
+   24  chmod +x ashi.sh
+   25  ./ashi.sh
+   26  echo "i am in $pwd"
+   27  nano ashi.sh
+   28  ./ashi.sh
+   29  nano ashi.sh
+   30  ./ashi.sh
+   31  nano ashi.sh
+   32  ./ashi.sh
+   33  nano abc.sh
+   34  ./abc.sh
+   35  chmod +x abc.sh
+   36  ./abc.sh
+   37  nano efg.sh
+   38  nano ashi.sh
+   39  nano efg.sh
+   40  chmod +x efg.sh
+   41  ./efg.sh
+   42  nano efg.sh
+   43  ./efg.sh
+   44  nano ghi.sh
+   45  chmod +x ghi.sh
+   46  ./ghi.sh
+   47  echo xyz.sh
+   48  nano xyz.sh
+   49  chmod +x xyz.sh
+   50  ./xyz.sh
+   51  nano xyz.sh
+   52  ./xyz.sh
+   53  nano xyz.sh
+   54  pwd
+   55  l
+   56  ./abc.sh
+   57  nano abc.sh
+   58  ./abc.sh
+   59  nano abc.sh
+   60  ./abc.sh
+   61  nano abc.sh
+   62  ./abc.sh
+   63  nano abc.sh
+   64  ./abc.sh
+   65  65654
+   66  ls
+   67  git int
+   68  git init
+   69  ls
+   70  l
+   71  ls -a
+   72  history
