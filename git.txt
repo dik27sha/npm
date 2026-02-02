@@ -1,0 +1,152 @@
+  1  pwd
+    2  ls
+    3  ls -a
+    4  mkdir sectionG
+    5  touch file1.txt
+    6  git help
+    7  cd sectionG
+    8  mkdir G1 G2 G3
+    9  cd G1
+   10  touch diksha.txt
+   11  ls
+   12  ls -l
+   13  ls i
+   14  ls -i
+   15  ls
+   16  echo "Diksha Saraswat"
+   17  echo "Hello students this is Diksha Saraswat">diksha.txt
+   18  cat diksha.txt
+   19  ln diksha.txt ashi
+   20  ls
+   21  ls -l
+   22  ls -i
+   23  ls
+   24  diksha.txt ashi
+   25  mkdir -p GLA/B.tech/sectionG
+   26  ls
+   27  cd ..
+   28  cd ..
+   29  mkdir -p GLA/B.tech/sectionG
+   30  ls
+   31  cd GLA
+   32  touch diksha.txt
+   33  echo "hello world">diksha.txt
+   34  cat diksha.txt
+   35  ln diksha.txt ashi
+   36  ls
+   37  mkdir -p practice/2026/january/week1
+   38  cd practice
+   39  cd 2026
+   40  cd january
+   41  cd week1
+   42  touch file1.txt
+   43  touch file2.txt
+   44  ls -l
+   45  ls -i
+   46  ln file1.txt file_1.txt
+   47  ls -li
+   48  ls
+   49   mkdir -p records/2026/february/week2
+   50  cd records/2026/february/week2
+   51  touch project.txt notes.txt
+   52  ls -li
+   53  ln project.txt project_backup.txt
+   54  ls -li
+   55  pwd
+   56  ls
+   57  ls -a
+   58  cd GLA
+   59  ls
+   60  mkdir abc
+   61  cd abc
+   62  touch diksha.txt
+   63  git init
+   64  git status
+   65  pwd
+   66  mkdir diksha
+   67  cd diksha
+   68  echo "hello from diksha" > github.txt
+   69  git init
+   70  git status
+   71  git add github.txt
+   72  git status
+   73  git log
+   74  git diff
+   75  pwd
+   76  mkdir saraswat.txt
+   77  cd saraswat.txt
+   78  git init
+   79  git remote add origin https://github.com/dik27sha/node.js.git
+   80  git remote -v
+   81  git status
+   82  git add .
+   83  git commit -m "Diksha Saraswat"
+   84  git branch -M main
+   85  git push -u origin main
+   86  git config --global user.name "Diksha Saraswat"
+   87  git config --global user.email "diksha.saraswat_cs23@gla.ac.in"
+   88  git config --global --list
+   89  git add .
+   90   git commit -m "initial commit"
+   91  git branch -M main
+   92  git push -u origin main
+   93  touch saraswat.txt
+   94  git add .
+   95  git status
+   96  git commit -m "initial commit"
+   97  git push -u origin main
+   98  git config --global user.name "Diksha Saraswat"
+   99  git config --global user.email "diksha.saraswat_cs23@gla.ac.in"
+  100  git config --list
+  101  git init
+  102  git add .
+  103  git --version
+  104  mkdir first-repo
+  105  cd first-repo
+  106  git init
+  107  touch README .md
+  108  echo " my first Github REpo"
+  109  git add .
+  110  git commit -m "First commit"
+  111  git branch -M main
+  112  git remote add origin
+  113  https://github.com/dik27sha/first-repo.git
+  114  clear
+  115  ls
+  116  pwd
+  117  cd unix
+  118  ls
+  119  mkdir sectionG
+  120  cd sectionG
+  121  echo "hello section"
+  122  git status
+  123  clear
+  124  pwd
+  125  mkdir sectiong
+  126  cd sectionG
+  127  echo "heelo sectionG students" >notes.txt
+  128  git status
+  129  git add notes.txt
+  130  git checkout -b nayabranch
+  131  ls
+  132  git status
+  133  git add notes.txt
+  134  git checkout main
+  135  git commit -m "done"
+  136  git merge nayabranch
+  137  clear
+  138  git branch
+  139  git checkout main
+  140  git switch main
+  141  git merge feature-login
+  142  git add .
+  143  git commit -m "resolve merge conflict"
+  144  git push origin main
+  145  git checkout main
+  146  git merge nayabranch
+  147  nano notes.txt
+  148  git commit -m "ab hoga merge"
+  149  gitt add notes.txt
+  150  git add notes.txt
+  151  git commit -m "ab hoga merge"
+  
