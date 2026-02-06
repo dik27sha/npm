@@ -1,4 +1,4 @@
-const fs =require('fs');
+/*const fs =require('fs');
 fs.writeFileSync('example.txt','this is an example file created using Node.js',
 function(e){
     if(e) console.log("ye aaya error");
@@ -6,3 +6,11 @@ function(e){
 });
 console.log('file created successfully');
 console.log('File system operation completed');
+function add(a,b){
+    return a+b;
+}
+add()
+module.exports = add;*/
+export default function add(a,b){
+    return a+b;
+}
