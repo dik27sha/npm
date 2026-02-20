@@ -5,9 +5,9 @@
   "main": "github.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node demo.js",
-    "Diksha":"echo \"Hello m Diksha hu\"",
-    "messi":"nodemon demo.js"
+    "start": "node demo.js",
+    "Diksha": "echo \"Hello m Diksha hu\"",
+    "messi": "nodemon demo.js"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +17,7 @@
     "express": "^5.2.1"
   },
   "devDependencies": {
+    "install": "^0.13.0",
     "nodemon": "^3.1.11"
   }
 }
